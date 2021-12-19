@@ -28,11 +28,7 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    13+ years of experience in IT working for large corporations and startups.
 
 experiences:
   display: true
