@@ -1,25 +1,25 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Vikas Jaiswal
+  title: Lead Consultant
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: jaiswal.vik@gmail.com
+  phone: +919371626126
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: vikasjaiswal.me
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: https://github.com/jaiswalvik
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: @vikasjaiswal
   stackoverflow:
   quora:
   goodreads:
