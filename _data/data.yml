@@ -64,9 +64,9 @@ skills:
   title: Skills
   details: |
     Here is my skills:
-    Java/J2EE
-    Apache Camel
-    Apache Kafka
+    - Java/J2EE
+    - Apache Camel
+    - Apache Kafka
 
   levels:
     - name: Java/J2EE
@@ -80,30 +80,16 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
+    - university: Pune University
+      time: 1999 - 2001
+      major: Information Technology
       degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Allahabad University
+      time: 1995 - 1998
+      major: Business
       degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -119,7 +105,7 @@ certificates:
       details: |
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -135,14 +121,14 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -151,7 +137,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -160,7 +146,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
