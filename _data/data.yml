@@ -34,32 +34,16 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Lead Consultant
+      time: 2018.07 - Till Date
+      company: Saksoft
       tag:
-      location: Beijing
+      location: Pune
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+        Currently involved in development and support of various Java applications.
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -80,18 +64,17 @@ skills:
   title: Skills
   details: |
     Here is my skills:
-    + First
-    + Second
-
-    ...
+    Java/J2EE
+    Apache Camel
+    Apache Kafka
 
   levels:
-    - name: Skill A
+    - name: Java/J2EE
       level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
+    - name: Apache Camel
+      level: 90
+    - name: Apache Kafka
+      level: 90
 
 education:
   display: true
