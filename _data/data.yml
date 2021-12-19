@@ -1,25 +1,25 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Vikas Jaiswal
+  title: Lead Consultant
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: jaiswal.vik@gmail.com
+  phone: +919371626126
   wechat:
-  whatsapp:
+  whatsapp: +919371626126
   telegram:
-  website: example.com
+  website: vikasjaiswal.me
   medium:
-  linkedin:
+  linkedin: www.linkedin.com/in/vikasjaiswal
   googlescholar:
   researchgate:
-  github: github
+  github: www.github.com/jaiswalvik
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: @vikasjaiswal
   stackoverflow:
   quora:
   goodreads:
@@ -28,103 +28,43 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
-
+    IT professional with 13+ years of experience.
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Lead Consulatnt
+      time: 2018.07 - Present
+      company: Saksoft
       tag:
-      location: Beijing
+      location: Pune
       details: |
         Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-projects:
-  display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-
+        Aplication development and support
 skills:
   display: true
   title: Skills
   details: |
     Here is my skills:
-    + First
-    + Second
-
-    ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
-
+    Java/J2EE
+    Backend development
+    Camel integration
+    Apache Kafka
 education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
+    - university: Pune University
+      time: 1999 - 2001
+      major: Computers
       degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+     - university: Allahabad University
+      time: 1995 - 1998
+      major: Business
       degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
+      
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -140,7 +80,7 @@ certificates:
       details: |
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -156,14 +96,14 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -172,7 +112,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -181,7 +121,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
