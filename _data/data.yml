@@ -2,12 +2,12 @@ basic:
   name: Vikas Jaiswal
   title: Lead Consultant
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
   email: jaiswal.vik@gmail.com
-  phone: +919371626126
+  phone: 9371626126
   wechat:
   whatsapp:
   telegram:
