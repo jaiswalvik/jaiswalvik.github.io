@@ -80,30 +80,27 @@ education:
   display: true
   title: Education
   items:
-    - university: Pune University
+    - university: Indian Institute of Technology Madras
+      time: 2021 - 2025
+      major: Data Science
+      degree: Bachelor
+    - university: Savitribai Phule Pune University
       time: 1999 - 2001
       major: Information Technology
       degree: Master
-    - university: Allahabad University
+    - university: University of Allahabad
       time: 1995 - 1998
       major: Business
       degree: Bachelor
 certificates:
-  display: false
+  display: True
   title: Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
-
+    - name: Executive Programme in Applied Finance
+      authority: Indian Institute of Management Calcutta
+      time: 2009
+      link: https://www.iimcal.ac.in/ldp/EPAF
+      details: Financial Research & Trading
 publications:
   display: false
   title: Publications
