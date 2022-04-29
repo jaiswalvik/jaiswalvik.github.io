@@ -1,6 +1,6 @@
 basic:
   name: Vikas Jaiswal
-  title: Lead Consultant
+  title: Technical Architect
   avatar:
     display: false
     path: profile.png
@@ -40,7 +40,7 @@ experiences:
       tag:
       location: Pune
       details: |
-        Currently involved in development and support of various Java applications.
+        Currently involved in design,development and support of various Java applications.
 
 projects:
   display: false
