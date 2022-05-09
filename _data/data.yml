@@ -34,7 +34,7 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Lead Consultant
+    - role: Technical Architect
       time: 2022.03 - Till Date
       company: Saksoft
       tag:
