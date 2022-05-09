@@ -35,7 +35,15 @@ experiences:
   title: Experiences
   items:
     - role: Lead Consultant
-      time: 2018.07 - Till Date
+      time: 2022.03 - Till Date
+      company: Saksoft
+      tag:
+      location: Pune
+      details: |
+        Currently involved in design,development and support of various Java applications.
+
+    - role: Lead Consultant
+      time: 2018.07 - 2022.03
       company: Saksoft
       tag:
       location: Pune
