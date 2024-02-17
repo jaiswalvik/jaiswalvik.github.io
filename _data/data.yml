@@ -1,6 +1,6 @@
 basic:
   name: Vikas Jaiswal
-  title: Technical Architect
+  title: Tech Lead
   avatar:
     display: false
     path: profile.png
@@ -11,7 +11,7 @@ contact:
   wechat:
   whatsapp:
   telegram:
-  website: vikasjaiswal.me
+  website: jaiswalvik.github.io
   medium:
   linkedin: vikasjaiswal
   googlescholar:
@@ -28,14 +28,22 @@ profile:
   display: true
   title: Profile
   details: |
-    17+ years of experience in IT working for large corporations and startups.
+    18+ years of experience in IT working for large corporations and startups.
 
 experiences:
   display: true
   title: Experiences
   items:
+    - role: Tech Lead
+      time: 2024.02 - Till Date
+      company: Solveda (A Saksoft Company)
+      tag:
+      location: Gurugram
+      details: |
+        Currently involved in design,development and support of various Java applications.
+
     - role: Technical Architect
-      time: 2022.03 - Till Date
+      time: 2022.03 - 2024.02
       company: Saksoft
       tag:
       location: Pune
@@ -75,21 +83,24 @@ skills:
     - Java/J2EE
     - Apache Camel
     - Apache Kafka
-
+    - Apache OFBiz
+    
   levels:
-    - name: Java/J2EE
+    - name: Java/J2EE/Spring
       level: 90
     - name: Apache Camel
       level: 90
     - name: Apache Kafka
       level: 90
+    - name : Apache OFBiz
+      level: 90 
 
 education:
   display: true
   title: Education
   items:
     - university: Indian Institute of Technology Madras
-      time: 2021 - 2025
+      time: 2021 - 2026
       major: Data Science
       degree: Bachelor
     - university: Savitribai Phule Pune University
