@@ -117,7 +117,7 @@ certificates:
   items:
     - name: Executive Programme in Applied Finance
       authority: Indian Institute of Management Calcutta
-      time: 2009 - 2009
+      time:
       link: https://www.iimcal.ac.in/ldp/EPAF
       details: |
           Long Duration Executive Programme
